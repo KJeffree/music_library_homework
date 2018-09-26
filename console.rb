@@ -56,6 +56,5 @@ album5 = Album.new({
   artists = Artist.all()
   albums = Album.all()
 
-
   binding.pry
   nil
